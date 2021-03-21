@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://github.com/Ahmedhamed77/Calculator">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://ahmedhamed77.github.io/Calculator/">
       Solution
     </a>
   </h3>
